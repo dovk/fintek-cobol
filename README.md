@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-- Click on the `resources` folder above, and then on the `emulation` folder 
+- Click on the `resources` folder above, and then on the `emulator` folder 
 - In the emulation folder click on the `TN5250.zip` file
 - On the next page, click on the `Download` button to the right 
 - When the download completes, double-click on the zip file and drag the `TN5250J` folder to your desktop
