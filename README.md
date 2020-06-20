@@ -3,7 +3,7 @@
 # Fintek-Digital Cobol Course - Welcome!
 
 ## Getting Started
-- In the unlikely even that Java is not installed on your machine, please download it [here](https://www.java.com/en/download/) and install
+- In the unlikely event that Java is not installed on your machine, please download it [here](https://www.java.com/en/download/) and install
 - Click on the `resources` folder above, and then on the `emulator` folder 
 - In the emulation folder click on the `TN5250.zip` file
 - On the next page, click on the `Download` button to the right 
