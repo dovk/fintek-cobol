@@ -13,35 +13,35 @@
 ![alt text](https://github.com/dovk/fintek-cobol/blob/master/resources/images/lnk.png)
 - After a few seconds you should see the following screen
 ![alt text](https://github.com/dovk/fintek-cobol/blob/master/resources/images/as400.png)
-<p>
+<p> 
 In some cases you might get the Connect-Connections window instead:
-<p>
+<p> 
 ![alt text](https://github.com/dovk/fintek-cobol/blob/master/resources/images/connect1.png)
-<p>
+<p> 
 In that case, click on the Add button.
-<p>
+<p> 
 Another window will open on the General tab.
-<p>
+<p> 
 Type the computer name texas400 in the System Name field.
-<p>
+<p> 
 ![alt text](https://github.com/dovk/fintek-cobol/blob/master/resources/images/add-general.png)
-<p>
+<p> 
 Now click on the second tab (TCP/IP).
-<p>
+<p> 
 Type the IP address 216.82.204.8 in the Host IP/DNS field.
-<p>
+<p> 
 ![alt text](https://github.com/dovk/fintek-cobol/blob/master/resources/images/add-ip.png)
-<p>
+<p> 
 Click on the Add button below.
-<p>
+<p> 
 You will now see the first window with one row containing the information you typed in.
-<p>
+<p> 
 Make sure the default checkbox on the right is checked.
-<p>
+<p> 
 Click on Apply below, and close the Connect-Connections window.
-<p>
+<p> 
 Once again, double click on the `TN5250J` shortcut on your desktop
-<p>
+<p> 
 ![alt text](https://github.com/dovk/fintek-cobol/blob/master/resources/images/lnk.png)
-<p>
+<p> 
 The AS400 login screen should appear this time
